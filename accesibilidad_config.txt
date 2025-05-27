@@ -1,0 +1,6 @@
+dano_prota:6
+dano_dragon:8
+cooldown_prota:600
+invuln_prota:1000
+invuln_dragon:800
+musica:Rage Against The Machine - Guerrilla Radio.mp3
